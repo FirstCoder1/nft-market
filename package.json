@@ -1,0 +1,22 @@
+{
+  "name": "nftmarketproject",
+  "version": "1.0.0",
+  "description": "built NFT with a market place where user can mint and sell NFTs with a fix price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firstcoder1/NFTmarketProject.git"
+  },
+  "author": "firstcoder1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firstcoder1/NFTmarketProject/issues"
+  },
+  "homepage": "https://github.com/firstcoder1/NFTmarketProject#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0"
+  }
+}
